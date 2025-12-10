@@ -21,13 +21,12 @@ This app allows users to enter their height and weight and instantly calculate t
 - **Material UI Components**
 - **Custom Widgets**
 - **Stateful Widgets** for BMI calculation
-- (Optional: Provider / GetX – add only if used)
+- **Using GetX
 
 ---
 
 ## 📸 App Screenshots
 
-_Add your screenshots here (recommended 2–3 images)_
 
 Example:
 
