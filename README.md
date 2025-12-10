@@ -36,7 +36,9 @@ Example:
 
 
 
+
 ---
 
 ## 📐 BMI Formula
+BMI = weight (kg) / (height (m))²
 
