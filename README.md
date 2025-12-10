@@ -31,7 +31,11 @@ _Add your screenshots here (recommended 2–3 images)_
 
 Example:
 
-![BMI Screen](assets/images/bmi_demo.png)
+<img width="414" height="874" alt="BMI01" src="https://github.com/user-attachments/assets/63ccc8ef-e7b6-49fa-bedd-72b35b715235" />
+<img width="408" height="876" alt="BMI02" src="https://github.com/user-attachments/assets/255c6591-8648-4d59-ad93-ea1c1496b1bd" />
+<img width="430" height="872" alt="BMI03" src="https://github.com/user-attachments/assets/ea397a54-3f31-4780-b4a0-a4080bf4aaa1" />
+
+
 
 ---
 
